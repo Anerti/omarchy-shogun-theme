@@ -64,7 +64,7 @@ Cycle through them with `omarchy theme bg next`.
 - Neovim: Omarchy's aether colorscheme on the same palette, with gold float borders, line number and titles, and crimson search hits
 - Omarchy Shell: a slightly translucent bar; menu and launcher rows in teal haze with gold text; gold-edged notifications with a signal-red countdown; gold-to-crimson flyouts and OSD; teal tooltips; and a lock screen whose password field is teal at rest, gold-to-crimson while you type and crimson on a wrong password
 - cava, cliamp and Hermes
-- Icons: `Yaru-red`
+- Icons: `Yaru-wartybrown-dark`
 - Boot screen: OMARCHY in armor gold for the disk-unlock prompt
 
 ## Installation
