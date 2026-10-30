@@ -24,6 +24,14 @@ hl.config({
     dim_inactive = true,
     dim_strength = 0.12,
 
+    -- Ink shadow lifts windows off the busy wallpapers
+    shadow = {
+      enabled = true,
+      range = 24,
+      render_power = 3,
+      color = "rgba(050a0bdd)",
+    },
+
     blur = {
       enabled = true,
       size = 6,
