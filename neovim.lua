@@ -50,6 +50,9 @@ return {
         hl.Title = { fg = c.accent, bold = true }
         hl.IncSearch = { bg = "#b8201f", fg = c.bright_fg, bold = true }
         hl.WinSeparator = { fg = c.selection, bold = true }
+        hl.Pmenu = { fg = c.fg, bg = c.lighter_bg }
+        hl.PmenuSel = { fg = c.accent, bg = c.selection, bold = true }
+        hl.SnacksDashboardHeader = { fg = "#b8201f" }
       end,
     },
   },
