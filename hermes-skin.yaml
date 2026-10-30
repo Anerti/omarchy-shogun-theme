@@ -1,0 +1,91 @@
+name: omarchy-theme
+description: Shogun - teal haze, gold armor, banner crimson
+colors:
+  background: "#0b1516"
+  ui_text: "#e6ddc8"
+  ui_primary: "#d8ad5b"
+  ui_accent: "#d8ad5b"
+  ui_border: "#1c4c4b"
+  ui_label: "#d8ad5b"
+  ui_ok: "#72a98c"
+  ui_warn: "#e3d27c"
+  ui_error: "#e23b3b"
+  ui_tool: "#5aa6a4"
+  ui_thinking: "#8a9f9a"
+  banner_border: "#b8201f"
+  banner_title: "#d8ad5b"
+  banner_accent: "#e23b3b"
+  banner_dim: "#9cb0aa"
+  banner_text: "#f8f1de"
+  prompt: "#d8ad5b"
+  input_rule: "#1c4c4b"
+  response_border: "#d8ad5b"
+  shell_dollar: "#c97b3f"
+  selection_bg: "#1c4c4b"
+  session_label: "#d8ad5b"
+  session_border: "#1c4c4b"
+  status_bar_bg: "#050a0b"
+  status_bar_text: "#e6ddc8"
+  status_bar_strong: "#d8ad5b"
+  status_bar_dim: "#8a9f9a"
+  status_bar_good: "#72a98c"
+  status_bar_warn: "#e3d27c"
+  status_bar_bad: "#e23b3b"
+  status_bar_critical: "#f26464"
+  voice_status_bg: "#050a0b"
+  completion_menu_bg: "#173434"
+  completion_menu_current_bg: "#1c4c4b"
+  completion_menu_meta_bg: "#173434"
+  completion_menu_meta_current_bg: "#1c4c4b"
+  diff_added: "#1a2b28"
+  diff_removed: "#2b1b1c"
+  diff_added_word: "#72a98c"
+  diff_removed_word: "#e23b3b"
+  syntax_string: "#72a98c"
+  syntax_number: "#d8ad5b"
+  syntax_keyword: "#e23b3b"
+  syntax_comment: "#8a9f9a"
+spinner:
+  waiting_faces: ["(侍)", "(刀)", "(⚔)", "(◈)", "(☾)"]
+  thinking_faces: ["(侍)", "(墨)", "(⚔)", "(巻)", "(◈)"]
+  thinking_verbs:
+    - consulting the daimyo
+    - grinding the ink
+    - reading the scrolls
+    - sharpening the blade
+    - weighing honor
+    - drafting the edict
+    - marshalling the ranks
+    - studying the terrain
+  wings:
+    - ["⟪⚔", "⚔⟫"]
+    - ["⟪◈", "◈⟫"]
+    - ["⟪╸", "╺⟫"]
+    - ["⟪☾", "☽⟫"]
+branding:
+  agent_name: Hermes Agent
+  welcome: "The council is in session. Speak your command, or /help for the court's ways."
+  goodbye: "Sayonara. 侍"
+  response_label: " 侍 Hermes "
+  prompt_symbol: "❯"
+  help_header: "(侍) Commands of the Court"
+tool_prefix: "╎"
+banner_logo: |
+  [bold #f0d28a]███████╗██╗  ██╗ ██████╗  ██████╗ ██╗   ██╗███╗   ██╗[/]
+  [bold #d8ad5b]██╔════╝██║  ██║██╔═══██╗██╔════╝ ██║   ██║████╗  ██║[/]
+  [#c97b3f]███████╗███████║██║   ██║██║  ███╗██║   ██║██╔██╗ ██║[/]
+  [#d0532f]╚════██║██╔══██║██║   ██║██║   ██║██║   ██║██║╚██╗██║[/]
+  [#e23b3b]███████║██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝██║ ╚████║[/]
+  [#b8201f]╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝[/]
+banner_hero: |
+  [#d8ad5b]            ▄▄▄▄▄            [/]
+  [#d8ad5b]          ▀███████▀          [/]
+  [bold #e23b3b]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/]
+  [bold #e23b3b] ▀▀███▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀███▀▀ [/]
+  [#e23b3b]    ███      ▐█▌      ███    [/]
+  [#e23b3b]  ▄▄███▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄███▄▄  [/]
+  [#b8201f]    ███               ███    [/]
+  [#b8201f]    ███               ███    [/]
+  [#b8201f]    ███               ███    [/]
+  [#1c4c4b]  ▄▄███▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄███▄▄  [/]
+  [dim #8a9f9a]     the council convenes    [/]
