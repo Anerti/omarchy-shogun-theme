@@ -37,7 +37,7 @@ Cycle through them with `omarchy theme bg next`.
 ![](https://placehold.co/120x24/f8f1de/000000?text=%23F8F1DE)
 ![](https://placehold.co/120x24/d8ad5b/000000?text=%23D8AD5B)
 ![](https://placehold.co/120x24/e3d27c/000000?text=%23E3D27C)
-![](https://placehold.co/120x24/e23b3b/000000?text=%23E23B3B)
+![](https://placehold.co/120x24/e44848/000000?text=%23E44848)
 ![](https://placehold.co/120x24/b8201f/f8f1de?text=%23B8201F)
 ![](https://placehold.co/120x24/c97b3f/000000?text=%23C97B3F)
 ![](https://placehold.co/120x24/72a98c/000000?text=%2372A98C)
@@ -51,7 +51,7 @@ Cycle through them with `omarchy theme bg next`.
 | Foreground | `#e6ddc8` |
 | Accent (armor gold) | `#d8ad5b` |
 | Yellow (kept apart from gold) | `#e3d27c` |
-| Signal red | `#e23b3b` |
+| Signal red | `#e44848` |
 | Banner crimson | `#b8201f` |
 | Selection (teal haze) | `#1c4c4b` |
 
@@ -62,7 +62,7 @@ Cycle through them with `omarchy theme bg next`.
 - Chromium: browser frame in deep teal (`#173434`)
 - Hyprland: square corners, a gold-to-crimson border, dimmed inactive windows, and blur behind translucent windows, the bar and notifications
 - Neovim: Omarchy's aether colorscheme on the same palette, with gold float borders, line number and titles, and crimson search hits
-- Omarchy Shell: a slightly translucent bar; menu and launcher rows in teal haze with gold text; gold-edged notifications with a crimson countdown; gold-to-crimson flyouts and OSD; teal tooltips; and a lock screen whose password field is teal at rest, gold-to-crimson while you type and crimson on a wrong password
+- Omarchy Shell: a slightly translucent bar; menu and launcher rows in teal haze with gold text; gold-edged notifications with a signal-red countdown; gold-to-crimson flyouts and OSD; teal tooltips; and a lock screen whose password field is teal at rest, gold-to-crimson while you type and crimson on a wrong password
 - cava, cliamp and Hermes
 - Icons: `Yaru-red`
 - Boot screen: OMARCHY in armor gold for the disk-unlock prompt

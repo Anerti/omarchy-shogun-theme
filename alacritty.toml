@@ -16,7 +16,7 @@ background = "#e3d27c"
 
 [colors.search.focused_match]
 foreground = "#0b1516"
-background = "#e23b3b"
+background = "#e44848"
 
 [colors.footer_bar]
 foreground = "#0b1516"
@@ -28,7 +28,7 @@ background = "#1c4c4b"
 
 [colors.normal]
 black = "#0b1516"
-red = "#e23b3b"
+red = "#e44848"
 green = "#72a98c"
 yellow = "#e3d27c"
 blue = "#7396aa"

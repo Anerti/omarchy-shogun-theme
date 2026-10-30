@@ -1,9 +1,9 @@
 background       = "#0b1516"
 background-alpha = 0.92
 text             = "#f8f1de"
-text-error       = "#e23b3b"
+text-error       = "#e44848"
 border           = "hyprland.active-border"
-border-error     = "#e23b3b"
+border-error     = "#e44848"
 border-alpha     = 1.0
 scrim            = "#050a0b"
 scrim-alpha      = 0.7

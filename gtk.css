@@ -15,9 +15,9 @@
 @define-color card_fg_color #e6ddc8;
 @define-color warning_bg_color #c97b3f;
 @define-color warning_fg_color #0b1516;
-@define-color error_bg_color #e23b3b;
+@define-color error_bg_color #b8201f;
 @define-color error_fg_color #f8f1de;
 @define-color success_bg_color #72a98c;
 @define-color success_fg_color #0b1516;
-@define-color destructive_bg_color #e23b3b;
+@define-color destructive_bg_color #b8201f;
 @define-color destructive_fg_color #f8f1de;
