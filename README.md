@@ -8,7 +8,7 @@ A dark Omarchy theme drawn from the palette of a samurai charge: deep teal haze,
 
 ![Shogun](preview.png)
 
-Neovim, btop, cliamp and eza on the Riders wallpaper. The focused window wears a slowly rotating gold-to-crimson border with a matching inner glow; the others are dimmed a little and sit on blurred, translucent backgrounds.
+Neovim, btop, cliamp and eza on the Riders wallpaper. The focused window wears a gold-to-crimson border; the others are dimmed a little and sit on blurred, translucent backgrounds.
 
 ## Wallpaper Gallery
 
@@ -60,7 +60,7 @@ Cycle through them with `omarchy theme bg next`.
 - Alacritty, Foot, Ghostty and Kitty (Foot with a gold cursor)
 - btop: graphs run teal at rest, gold under load and crimson at the limit
 - Chromium: browser frame in deep teal (`#173434`)
-- Hyprland: square corners, a gold-to-crimson border that turns once every 10 seconds with a matching inner glow, dimmed inactive windows, and blur behind translucent windows, the bar and notifications (working copy only, see below)
+- Hyprland: square corners, a gold-to-crimson border, dimmed inactive windows, and blur behind translucent windows, the bar and notifications
 - Neovim: Omarchy's aether colorscheme on the same palette, with gold float borders, line number and titles, and crimson search hits
 - Omarchy Shell: a slightly translucent bar; menu and launcher rows in teal haze with gold text; gold-edged notifications with a crimson countdown; gold-to-crimson flyouts and OSD; teal tooltips; and a lock screen whose password field is teal at rest, gold-to-crimson while you type and crimson on a wrong password
 - cava, cliamp and Hermes
@@ -73,12 +73,4 @@ Install it like any Omarchy theme. This clones it into `~/.config/omarchy/themes
 
 ```bash
 omarchy theme install https://github.com/Anerti/omarchy-shogun-theme.git
-```
-
-Omarchy rebuilds an installed theme's Lua and terminal files from `colors.toml`, so the colors match everywhere, but the rotating border, glow and square corners from `hyprland.lua` need a working copy instead:
-
-```bash
-git clone https://github.com/Anerti/omarchy-shogun-theme.git ~/Work/shogun
-ln -s ~/Work/shogun ~/.config/omarchy/themes/shogun
-omarchy theme set shogun
 ```

@@ -17,23 +17,12 @@ hl.config({
   },
 })
 
-hl.animation({ leaf = "borderangle", enabled = true, speed = 100, bezier = "linear", style = "loop" })
-hl.animation({ leaf = "glowangle", enabled = true, speed = 100, bezier = "linear", style = "loop" })
-
 hl.config({
   decoration = {
     rounding = 0,
 
     dim_inactive = true,
     dim_strength = 0.12,
-
-    glow = {
-      enabled = true,
-      range = 6,
-      render_power = 3,
-      color = { colors = { "rgba(d8ad5b88)", "rgba(b8201f88)" }, angle = 45 },
-      color_inactive = "rgba(00000000)",
-    },
 
     blur = {
       enabled = true,
